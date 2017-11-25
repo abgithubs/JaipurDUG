@@ -1,0 +1,182 @@
+[
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511594207082,
+            "changeTime": 1511594207082,
+            "contentHash": "5782d87093e5f2a937e6ba6a1de1f99a48d147b5",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511594207083,
+            "changeTime": 1511594207083,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511594207083,
+            "changeTime": 1511594207083,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511594253760,
+            "changeTime": 1511594253760,
+            "contentHash": "fe211d0716ae37924976ab477d320a66b1333d1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main\\classes\\myclass.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main\\classes\\myclass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 126,
+            "modifiedTime": 1499790638130,
+            "changeTime": 1511594257484,
+            "contentHash": "f6727f7e6f49c177812fb686bbf469be4d5e1f35",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main\\classes\\myclass.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main\\classes\\myclass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 190,
+            "modifiedTime": 1499790638130,
+            "changeTime": 1511594258257,
+            "contentHash": "f9ef1464770f6d266d45418360842614c75b9fc5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main\\classes\\mytest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main\\classes\\mytest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 188,
+            "modifiedTime": 1499790638133,
+            "changeTime": 1511594253760,
+            "contentHash": "7f28f6d2bde80fd57a389f5b77e38d8edc15acc8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main\\classes\\mytest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\default\\main\\classes\\mytest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1499790638133,
+            "changeTime": 1511594253760,
+            "contentHash": "0621f2494717c1bd403f8a6bda1a05b79a43eacb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511593729698,
+            "changeTime": 1511593729698,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511593729699,
+            "changeTime": 1511593729699,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511593729699,
+            "changeTime": 1511593729699,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Anurag\\SFDX\\jaipur-DUG\\workspace\\JaipurDUG",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511593800026,
+            "changeTime": 1511593800026,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
